@@ -3765,3 +3765,4 @@ Ndikumana Jean Pierre
 - [Rudra Sarker](https://github.com/rudra496) @ 05/05/2026
 - [Lovish Mehra](https://github.com/Lovish-Mehra-06) @ 05/05/2026
 - [Ved Prakash Arya](https://github.com/vedparkasharya) @ 05/06/2026
+- [Edward Barrios ](https://github.com/edwardb1) @ 05/06/2026
